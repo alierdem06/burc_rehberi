@@ -1,16 +1,8 @@
-# burc_rehberi
 
-A new Flutter project.
+Flutter ile geliştirdiğim burc rehberi 
 
-## Getting Started
+İmages: 
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="462" alt="Ekran Resmi 2024-01-23 23 52 07" src="https://github.com/alierdem06/burc_rehberi/assets/103539896/ec746724-d441-4e81-b8d9-2e0a344a699a">
+<img width="462" alt="Ekran Resmi 2024-01-23 23 51 55" src="https://github.com/alierdem06/burc_rehberi/assets/103539896/80169fd6-e9ac-4a43-8786-43486f3737f7">
+<img width="462" alt="Ekran Resmi 2024-01-23 23 52 29" src="https://github.com/alierdem06/burc_rehberi/assets/103539896/fdcab198-325a-4109-93db-59a3fc43f243">
