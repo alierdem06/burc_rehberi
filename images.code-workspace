@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "images",
+			"path": "../../../Downloads/strings_images/images"
+		},
+		{
+			"name": "burc_rehberi",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
